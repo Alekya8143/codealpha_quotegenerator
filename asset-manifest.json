@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/codealpha_quotegenerator/static/css/main.a04ee0aa.css",
+    "main.js": "/codealpha_quotegenerator/static/js/main.1693ef68.js",
+    "index.html": "/codealpha_quotegenerator/index.html",
+    "main.a04ee0aa.css.map": "/codealpha_quotegenerator/static/css/main.a04ee0aa.css.map",
+    "main.1693ef68.js.map": "/codealpha_quotegenerator/static/js/main.1693ef68.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a04ee0aa.css",
+    "static/js/main.1693ef68.js"
+  ]
+}
