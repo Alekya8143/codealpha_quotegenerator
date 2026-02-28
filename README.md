@@ -1,30 +1,35 @@
  💬 CodeAlpha Quote Generator
-
+ 
 🔹 Project Overview
+
 The **Quote Generator App** is a responsive web application developed as part of the **CodeAlpha Internship Program**.
 
 This application displays inspirational quotes dynamically and allows users to generate new quotes with a single click, providing motivation and positivity through a clean and interactive interface.
 
-🚀 Live Demo
+ 🚀 Live Demo
 
-⚠️ Live deployment is under configuration.
+✨ View the live application here:
 
-You can run the project locally using the steps below.
- ✨ Features
+👉 https://alekya8143.github.io/codealpha_quotegenerator/
 
- 💡 Generate random inspirational quotes
- 🔄 One-click quote refresh
- 📱 Responsive design (Mobile & Desktop)
- ⚡ Fast and lightweight interface
- 🎨 Clean and modern UI
+The project is deployed using **GitHub Pages** and can be accessed directly through the above link.
 
-🛠️ Technologies Used
+✨ Features
 
-- React JS
-- JavaScript (ES6)
-- HTML5
-- CSS3
-- Git & GitHub
+* 💡 Generate random inspirational quotes
+* 🔄 One-click quote refresh
+* 📱 Responsive design (Mobile & Desktop)
+* ⚡ Fast and lightweight interface
+* 🎨 Clean and modern UI
+
+ 🛠️ Technologies Used
+
+* React JS
+* JavaScript (ES6)
+* HTML5
+* CSS3
+* Git & GitHub
+* GitHub Pages (Deployment)
 
 📂 Project Structure
 
@@ -34,37 +39,41 @@ codealpha_quotegenerator/
 ├── src/
 │   ├── App.js
 │   ├── index.js
-│   └── styles
+│   └── styles/
 ├── package.json
 └── README.md
 
  ⚙️ Installation & Setup
+
  1️⃣ Clone the repository
 
-  git clone https://github.com/Alekya8143/codealpha_quotegenerator.git
+git clone https://github.com/Alekya8143/codealpha_quotegenerator.git
+
 
  2️⃣ Navigate to project folder
-  cd codealpha_quotegenerator
+
+   cd codealpha_quotegenerator
+
 
  3️⃣ Install dependencies
-  npm install
 
- 4️⃣ Run the application
+   npm install
 
-  npm start
+ 4️⃣ Run the project
+
+   npm start
 
 The app will run at:
 
 http://localhost:3000
 
- 🌐 Deployment
+🌐 Deployment
 
-This project can be deployed using GitHub Pages or any modern hosting platform.
+This project is deployed using **GitHub Pages**.
 
  👩‍💻 Author
-Golla Alekya 
-
-CodeAlpha Internship – 2026
+Alekya Golla
+CodeAlpha Internship Project
 
  📄 License
 
